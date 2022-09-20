@@ -9,10 +9,10 @@ function postText(value){
 
 const scriptsInEvents = {
 
-		async Global_sht_Event81_Act2(runtime, localVars)
-		{
-			postText(runtime.globalVars.finalScore)
-		}
+	async Global_sht_Event78_Act3(runtime, localVars)
+	{
+		postText(runtime.globalVars.finalScore)
+	}
 
 };
 
